@@ -1,1 +1,1 @@
-component-calculator
+Calculator Component
